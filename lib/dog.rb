@@ -11,9 +11,3 @@ class Dog
     puts "woof!"
   end
 end
-
-ruby = Dog.new
-ruby.name = "ruby"
-
-puts ruby.name
-puts ruby.bark
